@@ -1,4 +1,4 @@
-# TodoList
+# TODO-LIST using Browsers Local-Storage as Dababase
 # Bulit with
   * HTML
   * CSS
